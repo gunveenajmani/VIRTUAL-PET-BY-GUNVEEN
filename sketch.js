@@ -16,7 +16,7 @@ function preload()
   //load images here
   dogImg1=loadImage("images/dogImg.png");
   dogImg2=loadImage("images/dogImg1.png");
-  milkImg=loadImage("images/milk.png");
+  //milkImg=loadImage("images/milk.png");
 }
 
 function setup() {
